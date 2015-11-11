@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.heartpumping"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:name="com.example.heartpumping.HPFont"
+        android:allowBackup="true"
+        android:icon="@drawable/mainicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.heartpumping.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.heartpumping.HPHome"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.example.heartpumping.HPNewMember"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPHomeHome" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPHomeBoard" >
+        </activity>
+        <activity
+            android:name="com.example.heartpumping.HPHomeFind"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPHomeSetting" >
+        </activity>
+        <activity
+            android:name="com.example.heartpumping.HPFindLogin"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.example.heartpumping.HPModify"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPBanList" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPHomeProFModify" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPHomeMakeBoard" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPFriendList" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPBoardFriend" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPReqMeetBoard" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPBoardInfo" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPSetPersonal" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPHomeTeam" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPTeamMake" >
+        </activity>
+        <activity android:name="com.example.heartpumping.hpReqMyMeetBoard" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPSetHelp" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPSetTema" >
+        </activity>
+        <activity android:name="com.example.heartpumping.HPLoadingSplash" >
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest>

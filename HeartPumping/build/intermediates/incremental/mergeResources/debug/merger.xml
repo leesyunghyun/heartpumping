@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Administrator\Desktop\HeartPumping\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="board"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\board.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="board_icon"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\board_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="boderadd"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\boderadd.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btnonoff"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\btnonoff.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button1"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\button1.gif"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button2"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\button2.gif"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="find_icon"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\find_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="friend"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\friend.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="home"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\home.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="home_icon"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\home_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="login"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\login.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="member"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\member.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="setting"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\setting.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="setting_icon"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-mdpi\setting_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hpfindfriend"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hpfindfriend.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hphome"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hphome.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hplogin"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hplogin.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hpmakeboard"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hpmakeboard.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hpmeetingboard"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hpmeetingboard.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hpnewmember"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hpnewmember.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hpsetting"
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\layout\hpsetting.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >HeartPumping
+                </string>
+            </file>
+            <file
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Administrator\Desktop\HeartPumping\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Administrator\Desktop\HeartPumping\build\generated\res\rs\debug" />
+        <source path="C:\Users\Administrator\Desktop\HeartPumping\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Administrator\Desktop\HeartPumping\build-types\debug\res" />
+    </dataSet>
+
+</merger>

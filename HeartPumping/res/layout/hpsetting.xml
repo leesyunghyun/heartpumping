@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/setting_blue"
+    android:orientation="vertical"
+    android:id="@+id/lihpsetting"
+    android:gravity="center" >
+
+    <Button
+        android:id="@+id/btnpersonal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btnmyinfo_blue" />
+
+    <Button
+        android:id="@+id/btntema"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btntema_blue" />
+
+    <Button
+        android:id="@+id/btnhelp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btnhelp_blue" />
+
+</LinearLayout>
